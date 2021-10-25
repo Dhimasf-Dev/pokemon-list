@@ -1,0 +1,18 @@
+.footerContainer {
+    position: fixed;
+    width: 100vw;
+    top: 93vh;
+    display: flex;
+    justify-content: center
+}
+
+.buttonMyPokemon {
+    background: #18181B;
+    color: white;
+    border: 1px solid black;
+    border-radius: 1rem;
+    display: center;
+    padding: 0.2rem 0.7rem 0.2rem 0.7rem;
+    font-weight: bold;
+    font-family: monospace
+}

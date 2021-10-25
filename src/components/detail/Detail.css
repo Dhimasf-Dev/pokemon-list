@@ -1,0 +1,58 @@
+.detail-container {
+    border: 0px solid gray;
+    border-radius: 0.5rem;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.3);
+    margin: 1rem;
+}
+
+.header-detail {
+    text-align: center;
+}
+
+.header-detail img {
+    margin-top: 3rem;
+    width: 35%;
+    padding: 1rem;
+    border: 0.5px solid grey;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.3);
+    border-radius: 50%
+}
+
+.header-detail button {
+    margin: 1rem 0;
+    /* background-color: red; */
+    color: black;
+    padding: 0.3rem 10vw;
+    border: 1px solid black;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.5);
+    border-radius: 2rem;
+}
+
+
+.nickname-font {
+    font-size: 2.5em;
+}
+
+
+.border {
+    border-top: 1px solid black;
+    margin: 0rem 2rem 0 2rem;
+    padding-top: 1rem;
+
+}
+
+.moves-detail {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin: 0.8rem 2rem 0 2rem;
+}
+
+.submove-detail {
+    border: 1px solid grey;
+    border-radius: 1rem;
+    padding: 0rem 0.5rem 0.1rem 0.5rem;
+    background-color: #18181B;
+    color: white;
+    font-size: 0.9em;
+}
